@@ -25,7 +25,7 @@ The goal of this project is to strengthen **Data Structures & Algorithms (DSA)**
 ## 📈 Progress
 - Easy: ✅ 20+ solved  
 - Medium: ⚡ 10+ solved  
-- Hard: 🔥 30+ solved  
+- Hard: 🔥 3+ solved  
 
 ---
 
